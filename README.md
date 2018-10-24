@@ -1,3 +1,3 @@
-# ethz-fall2018-subs
+# ETH Zurich Fall 2018 AMOD Class Homework Submissions
 
-Naming convention: name your file: AMOD18-ETH-LastName-BotName
+Please use the correct folder for delivering your homework assignments.
