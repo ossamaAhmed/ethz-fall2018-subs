@@ -21,7 +21,7 @@ Note that bad one-shot localization can be a result of putting your Duckiebot on
 | Berdou       | repeat                                                           |
 | Bernasconi   | not submitted                                                    |
 | Camus        | repeat                                                           |
-| Firynowicz   | not submitted                                                    |
+| Firynowicz   | okeyish                                                          |
 | Franzmeyer   | okeyish                                                          |
 | Gabbi        | not submitted                                                    |
 | Gulich       | repeat, better use a clean straight stretch of road              |
