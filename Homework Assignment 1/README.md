@@ -28,7 +28,7 @@ Note that bad one-shot localization can be a result of putting your Duckiebot on
 | Gyanchandani | repeat                                                           |
 | Hongisto     | okeyish                                                          |
 | Klemm        | repeat                                                           |
-| Kuan         | repeat, use the right lane                                       |
+| Kuan         | okeyish                                       |
 | Li           | okeyish                                                          |
 | Liang        | repeat                                                           |
 | Liu (Aoming) | repeat                                                           |
