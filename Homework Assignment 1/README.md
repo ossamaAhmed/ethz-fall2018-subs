@@ -29,7 +29,7 @@ Note that bad one-shot localization can be a result of putting your Duckiebot on
 | Hongisto     | okeyish                                                          |
 | Klemm        | repeat                                                           |
 | Kuan         | repeat, use the right lane                                       |
-| Li           | not submitted                                                    |
+| Li           | okeyish                                                          |
 | Liang        | repeat                                                           |
 | Liu (Aoming) | repeat                                                           |
 | Liu (Yang)   | not submitted                                                    |
