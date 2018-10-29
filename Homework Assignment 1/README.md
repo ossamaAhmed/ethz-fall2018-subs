@@ -21,21 +21,21 @@ Note that bad one-shot localization can be a result of putting your Duckiebot on
 | Berdou       | repeat                                                           |
 | Bernasconi   | not submitted                                                    |
 | Camus        | repeat                                                           |
-| Firynowicz   | not submitted                                                    |
+| Firynowicz   | okeyish                                                          |
 | Franzmeyer   | okeyish                                                          |
-| Gabbi        | not submitted                                                    |
-| Gulich       | repeat, better use a clean straight stretch of road              |
+| Gabbi        | okeyish                                                          |
+| Gulich       | okeyish                                                          |
 | Gyanchandani | repeat                                                           |
 | Hongisto     | okeyish                                                          |
-| Klemm        | repeat                                                           |
-| Kuan         | repeat, use the right lane                                       |
-| Li           | not submitted                                                    |
+| Klemm        | okeyish                                                          |
+| Kuan         | okeyish                                                          |
+| Li           | okeyish                                                          |
 | Liang        | repeat                                                           |
 | Liu (Aoming) | repeat                                                           |
 | Liu (Yang)   | not submitted                                                    |
-| Mannhart     | repeat                                                           |
+| Mannhart     | okeyish                                                          |
 | Milano       | repeat                                                           |
-| Morra        | repeat                                                           |
+| Morra        | okeyish                                                          |
 | Muni         | okeyish                                                          |
 | Oort Alonso  | repeat                                                           |
 | Petrov       | okeyish                                                          |
@@ -44,7 +44,7 @@ Note that bad one-shot localization can be a result of putting your Duckiebot on
 | Prajapat     | okeyish                                                          |
 | Roumie       | repeat                                                           |
 | Schaefer     | repeat, maybe without other Duckiebots around                    |
-| Shah         | not submitted                                                    |
+| Shah         | okeyish                                                          |
 | Suri         | repeat                                                           |
 | Tintore      | repeat, avoid the other roads on the sides                       |
 | Torrente     | this is not the one-shot localization                            |
