@@ -37,7 +37,7 @@ class Controller():
         # Sum of errors for the I-part 
         self.err_sum += err
 
-        # Native P-Controller
+        # PID-Controller
         C_P = self.k_P * err + 1/self.k_I * self.err_sum + self.k_D * (err - self.prev_err)/dt_last
         omega = C_P
 
