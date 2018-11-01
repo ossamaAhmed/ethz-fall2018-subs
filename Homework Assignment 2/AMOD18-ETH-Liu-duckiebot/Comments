@@ -1,0 +1,6 @@
+experiment:
+I used the same ramp input and changed the amplitude of the sine input with setting the k2 parameter as 0.06, 0.08, 0.1
+observation: 
+As the amplitude increases, the optimization result get worse. The prediction curves after optimization become more different with the measured curves.
+And the divergence between predicted curves and measured curves will accumulate as the time goes, which is especially obvious in the picture of Ramp Manouver.
+And I got the best estimation curves after optimization when I set k2 as 0.06
