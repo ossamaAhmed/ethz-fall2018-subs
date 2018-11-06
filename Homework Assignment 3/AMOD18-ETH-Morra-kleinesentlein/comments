@@ -1,0 +1,23 @@
+Video 1
+--> optimal
+delay: 0.0
+max_omega: 4.169
+sampling rate: 1.0
+
+Video 2
+--> no real difference
+delay: 0.0
+max_omega: 4.169
+sampling rate: 2.0
+
+Video 3
+--> no real difference
+delay: 1.0
+max_omega: 4.169
+sampling rate: 1.0
+
+Video 4
+--> not good anymore, drives out of the lanes
+delay: 0.0
+max_omega: 6.169
+sampling rate: 1.0
