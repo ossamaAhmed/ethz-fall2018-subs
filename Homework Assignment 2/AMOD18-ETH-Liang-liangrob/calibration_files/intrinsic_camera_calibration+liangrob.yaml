@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [320.2140429552939, 0.0, 306.34667257104763, 0.0, 319.9298745272114, 213.59250737497274,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: liangrob/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.22685959137912953, 0.03128825823008636, -0.0001356283717238994, 0.002914988918950282,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [208.90194702148438, 0.0, 306.3435828067777, 0.0, 0.0, 263.9152526855469,
+    200.21392787689365, 0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
