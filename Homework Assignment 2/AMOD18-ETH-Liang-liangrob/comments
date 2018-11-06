@@ -1,0 +1,2 @@
+I did the experiments with three magnitude of sine 0.05,0.06 and 0.08. I found on the image that as the magnitude descrease, the optimal curves fits better and better with the measured date. 
+Altough the optimal result did return a better response than the default one, it still does not fit the measured one well. I think optimizinging over the trim and gain is not sufficient to provide good results. And the camera calibration I've done before also affect the result. 
