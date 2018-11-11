@@ -59,9 +59,6 @@ class CarDynamics(GenericKinematicsSE2):
         # represent this as se(2)
         commands_se2 = geo.se2_from_linear_angular(linear, angular)
 
-        # represent this as se(2)
-        commands_se2 = geo.se2_from_linear_angular(linear, angular)
-
         # Call the "integrate" function of GenericKinematicsSE2
         s1 = GenericKinematicsSE2.integrate(self, dt, commands_se2)
 
